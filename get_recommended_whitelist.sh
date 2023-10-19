@@ -33,7 +33,6 @@ urls=(
     # Commented out because it whitelists sites including doubleclick.net and ad.atdmt.com
     # https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt
     https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
-    https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
 )
 
 # loop through the urls and download each file with curl
